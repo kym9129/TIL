@@ -1,3 +1,5 @@
+커밋 로그용 저장소. 링크 클릭하면 노션으로 이동합니다.
+
 ## Spring Framework
 
 1. [Spring시작하기 / DI / Legacy Project생성](https://www.notion.so/82-Spring-DI-Legacy-Project-b7a84e5cce3247b0a1fa4fd6c33c60c0)
