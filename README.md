@@ -3,6 +3,7 @@
 ## Spring Framework
 
 1. [Spring시작하기 / DI / Legacy Project생성](https://www.notion.so/82-Spring-DI-Legacy-Project-b7a84e5cce3247b0a1fa4fd6c33c60c0)
+2. [셋팅/부트스트랩/Handler/Logger/Lombok/Controller사용하기](https://www.notion.so/83-Handler-Logger-Lombok-Controller-051eece844e34bc3b99a5c208c634ff0)
 
 ## Coding Test (JAVA & Python)
 '이것이 이것이 취업을 위한 코딩 테스트다 with 파이썬 (나동빈 저)'로 공부 중
