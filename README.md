@@ -1,7 +1,8 @@
 커밋 로그용 저장소. 링크 클릭하면 노션으로 이동합니다.
 
 ## Spring Framework
-
+![Spring MVC Request Lifecycle](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe9030439-ab76-4cd2-b10f-e57c18d21014%2FUntitled.png?table=block&id=dcbdf509-b8df-4f98-8335-c98ee3563b95&width=2230&userId=3c54194f-345c-42e9-8efe-722a9d9ae0d3&cache=v2)
+)
 1. [Spring시작하기 / DI / Legacy Project생성](https://www.notion.so/82-Spring-DI-Legacy-Project-b7a84e5cce3247b0a1fa4fd6c33c60c0)
 2. [셋팅/부트스트랩/Handler/Logger/Lombok/Controller사용하기](https://www.notion.so/83-Handler-Logger-Lombok-Controller-051eece844e34bc3b99a5c208c634ff0)
 3. [ModelAttribute/RequestMapping속성/Validator/DML처리(Insert)/RedirectAttribute/SpringReload](https://www.notion.so/84-ModelAttribute-RequestMapping-Validator-AOP-6e0b1fa6080b4797aa2ca62d0aa297ca)
