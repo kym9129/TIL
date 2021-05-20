@@ -16,3 +16,4 @@
 3. [DFS & BFS (Graph Search)](https://www.notion.so/3-DFS-BFS-Graph-Search-2d818668b8f74c4ea1779044c010c598)
     1. [Stack & Queue](https://www.notion.so/3-1-Stack-Queue-dbd5b694cdeb44818e8bc9b8c24dd1da)
     2. [재귀함수(Recursive Function) / 팩토리얼, 유클리드 호제법](https://www.notion.so/3-2-Recursive-Function-c556932286dc47e381186af99a145670)
+4. [다이나믹 프로그래밍 (Dynamic programming)](https://www.notion.so/6-Dynamic-programming-3f1e72087655410098818313327ea4b8)
