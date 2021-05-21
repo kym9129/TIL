@@ -7,6 +7,8 @@
 2. [셋팅/부트스트랩/Handler/Logger/Lombok/Controller사용하기](https://www.notion.so/83-Handler-Logger-Lombok-Controller-051eece844e34bc3b99a5c208c634ff0)
 3. [ModelAttribute/RequestMapping속성/Validator/DML처리(Insert)/RedirectAttribute/SpringReload](https://www.notion.so/84-ModelAttribute-RequestMapping-Validator-AOP-6e0b1fa6080b4797aa2ca62d0aa297ca)
 4. [update,delete/회원가입-@Data,타입핸들러(bool-int) HomeController/initBinder/비번암호화-Spring Security/로그인](https://www.notion.so/85-update-delete-Data-bool-int-HomeController-initBinder-Spring-Security-220a146fb5a546e689b9ba35054db28b)
+5. [마이페이지-Model, Slf4j, Handler Interceptor](https://www.notion.so/86-Model-Slf4j-Handler-Interceptor-a2c72bc0035a4b0eb6af3e143f418f6e)
+6. [Model, HandlerMapper](https://www.notion.so/Model-Handler-Mapper-c97830cd673f444cb8eae1f0af4f3908)
 
 ## Coding Test (JAVA & Python)
 '이것이 이것이 취업을 위한 코딩 테스트다 with 파이썬 (나동빈 저)'로 공부 중
