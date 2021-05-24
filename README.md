@@ -2,14 +2,14 @@
 
 ## Spring Framework
 ![Spring MVC Request Lifecycle](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe9030439-ab76-4cd2-b10f-e57c18d21014%2FUntitled.png?table=block&id=dcbdf509-b8df-4f98-8335-c98ee3563b95&width=2230&userId=3c54194f-345c-42e9-8efe-722a9d9ae0d3&cache=v2)
-0. [Sping 개요, 5가지 특징](https://www.notion.so/Spring-5-fe7a76615c8c4e0c9e289c386ea602da)
-1. [Spring시작하기 / DI / Legacy Project생성](https://www.notion.so/82-Spring-DI-Legacy-Project-b7a84e5cce3247b0a1fa4fd6c33c60c0)
-2. [셋팅/부트스트랩/Handler/Logger/Lombok/Controller사용하기](https://www.notion.so/83-Handler-Logger-Lombok-Controller-051eece844e34bc3b99a5c208c634ff0)
-3. [ModelAttribute/RequestMapping속성/Validator/DML처리(Insert)/RedirectAttribute/SpringReload](https://www.notion.so/84-ModelAttribute-RequestMapping-Validator-AOP-6e0b1fa6080b4797aa2ca62d0aa297ca)
-4. [update,delete/회원가입-@Data,타입핸들러(bool-int) HomeController/initBinder/비번암호화-Spring Security/로그인](https://www.notion.so/85-update-delete-Data-bool-int-HomeController-initBinder-Spring-Security-220a146fb5a546e689b9ba35054db28b)
-5. [마이페이지-Model, Slf4j, Handler Interceptor](https://www.notion.so/86-Model-Slf4j-Handler-Interceptor-a2c72bc0035a4b0eb6af3e143f418f6e)
-6. [Model, HandlerMapper](https://www.notion.so/Model-Handler-Mapper-c97830cd673f444cb8eae1f0af4f3908)
-7. [AOP](https://www.notion.so/87-AOP-aa790732166b47838623c164f722c69f)
+1. [Sping 개요, 5가지 특징](https://www.notion.so/Spring-5-fe7a76615c8c4e0c9e289c386ea602da)
+2. [Spring시작하기 / DI / Legacy Project생성](https://www.notion.so/82-Spring-DI-Legacy-Project-b7a84e5cce3247b0a1fa4fd6c33c60c0)
+3. [셋팅/부트스트랩/Handler/Logger/Lombok/Controller사용하기](https://www.notion.so/83-Handler-Logger-Lombok-Controller-051eece844e34bc3b99a5c208c634ff0)
+4. [ModelAttribute/RequestMapping속성/Validator/DML처리(Insert)/RedirectAttribute/SpringReload](https://www.notion.so/84-ModelAttribute-RequestMapping-Validator-AOP-6e0b1fa6080b4797aa2ca62d0aa297ca)
+5. [update,delete/회원가입-@Data,타입핸들러(bool-int) HomeController/initBinder/비번암호화-Spring Security/로그인](https://www.notion.so/85-update-delete-Data-bool-int-HomeController-initBinder-Spring-Security-220a146fb5a546e689b9ba35054db28b)
+6. [마이페이지-Model, Slf4j, Handler Interceptor](https://www.notion.so/86-Model-Slf4j-Handler-Interceptor-a2c72bc0035a4b0eb6af3e143f418f6e)
+7. [Model, HandlerMapper](https://www.notion.so/Model-Handler-Mapper-c97830cd673f444cb8eae1f0af4f3908)
+8. [AOP](https://www.notion.so/87-AOP-aa790732166b47838623c164f722c69f)
 
 ## Data Structure & Algorithm (JAVA & Python)
 '이것이 이것이 취업을 위한 코딩 테스트다 with 파이썬 (나동빈 저)'로 공부 중
