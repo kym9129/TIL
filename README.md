@@ -10,7 +10,7 @@
 5. [마이페이지-Model, Slf4j, Handler Interceptor](https://www.notion.so/86-Model-Slf4j-Handler-Interceptor-a2c72bc0035a4b0eb6af3e143f418f6e)
 6. [Model, HandlerMapper](https://www.notion.so/Model-Handler-Mapper-c97830cd673f444cb8eae1f0af4f3908)
 
-## Coding Test (JAVA & Python)
+## Data Structure & Algorithm (JAVA & Python)
 '이것이 이것이 취업을 위한 코딩 테스트다 with 파이썬 (나동빈 저)'로 공부 중
 
 1. [파이썬 기본 문법](https://www.notion.so/1-151a1d16207d4c47a5f080ade9cf6258)
