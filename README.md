@@ -10,6 +10,7 @@
 6. [마이페이지-Model, Slf4j, Handler Interceptor](https://www.notion.so/86-Model-Slf4j-Handler-Interceptor-a2c72bc0035a4b0eb6af3e143f418f6e)
 7. [Model, HandlerMapper](https://www.notion.so/Model-Handler-Mapper-c97830cd673f444cb8eae1f0af4f3908)
 8. [AOP사용하기/Proxy객체](https://www.notion.so/87-AOP-Proxy-aa790732166b47838623c164f722c69f)
+9. [xml정리/게시판/페이징/파일첨부](https://www.notion.so/88-xml-081c0adf7652444dac3adcb142e6d2df)
 
 ## Data Structure & Algorithm (JAVA & Python)
 '이것이 이것이 취업을 위한 코딩 테스트다 with 파이썬 (나동빈 저)'로 공부 중
