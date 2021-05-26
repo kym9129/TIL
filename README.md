@@ -11,6 +11,7 @@
 7. [Model, HandlerMapper](https://www.notion.so/Model-Handler-Mapper-c97830cd673f444cb8eae1f0af4f3908)
 8. [AOP사용하기/Proxy객체](https://www.notion.so/87-AOP-Proxy-aa790732166b47838623c164f722c69f)
 9. [xml정리/게시판/페이징/파일첨부-selectKey](https://www.notion.so/88-xml-081c0adf7652444dac3adcb142e6d2df)
+10. [Transaction처리](https://www.notion.so/89-Transaction-c892fe266f7443d9a8a863a222626a51)
 
 ## Data Structure & Algorithm (JAVA & Python)
 '이것이 이것이 취업을 위한 코딩 테스트다 with 파이썬 (나동빈 저)'로 공부 중
