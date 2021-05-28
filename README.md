@@ -14,7 +14,7 @@
 10. [Transaction처리](https://www.notion.so/89-Transaction-c892fe266f7443d9a8a863a222626a51)
 11. [첨부파일다운:Resource객체,ResponseEntity/Spring Ajax](https://www.notion.so/90-Resource-ResponseEntity-Spring-Ajax-8b7ecc69070f43fc9137ace83f05e25b)
 12. [SpringBoot 개요](https://www.notion.so/StringBoot-e605520a80524c99826953f28295e8b9)
-13. [91. StringBoot 시작, RestAPI개발 / Enum](https://www.notion.so/91-StringBoot-RestAPI-Enum-dccd556d60834bb7a123812ea4fafeeb)
+13. [StringBoot 시작, RestAPI개발 / Enum](https://www.notion.so/91-StringBoot-RestAPI-Enum-dccd556d60834bb7a123812ea4fafeeb)
 
 ## Data Structure & Algorithm (JAVA & Python)
 '이것이 이것이 취업을 위한 코딩 테스트다 with 파이썬 (나동빈 저)'로 공부 중
