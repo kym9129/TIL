@@ -17,8 +17,7 @@
 13. [StringBoot 시작, RestAPI개발 / Enum](https://www.notion.so/91-StringBoot-RestAPI-Enum-dccd556d60834bb7a123812ea4fafeeb)
 14. [PathVariable, POST](https://www.notion.so/92-PathVariable-POST-7dcb53ab5a4446c2bc2f4d0abf90551a)
 
-## Data Structure & Algorithm (JAVA & Python)
-'이것이 이것이 취업을 위한 코딩 테스트다 with 파이썬 (나동빈 저)'로 공부 중
+## Data Structure & Algorithm (JAVA)
 
 1. [파이썬 기본 문법](https://www.notion.so/1-151a1d16207d4c47a5f080ade9cf6258)
 2. [탐욕법(Greedy) & 구현(Implement)](https://www.notion.so/2-Greedy-Implement-551b56596cca49778faaa7027f7e7437)
