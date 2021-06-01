@@ -15,6 +15,7 @@
 11. [첨부파일다운:Resource객체,ResponseEntity/Spring Ajax](https://www.notion.so/90-Resource-ResponseEntity-Spring-Ajax-8b7ecc69070f43fc9137ace83f05e25b)
 12. [SpringBoot 개요](https://www.notion.so/StringBoot-e605520a80524c99826953f28295e8b9)
 13. [StringBoot 시작, RestAPI개발 / Enum](https://www.notion.so/91-StringBoot-RestAPI-Enum-dccd556d60834bb7a123812ea4fafeeb)
+14. [PathVariable, POST](https://www.notion.so/92-PathVariable-POST-7dcb53ab5a4446c2bc2f4d0abf90551a)
 
 ## Data Structure & Algorithm (JAVA & Python)
 '이것이 이것이 취업을 위한 코딩 테스트다 with 파이썬 (나동빈 저)'로 공부 중
@@ -26,3 +27,4 @@
     2. [재귀함수(Recursive Function) / 팩토리얼, 유클리드 호제법](https://www.notion.so/3-2-Recursive-Function-c556932286dc47e381186af99a145670)
 4. [다이나믹 프로그래밍 (Dynamic programming)](https://www.notion.so/6-Dynamic-programming-3f1e72087655410098818313327ea4b8)
 5. [최단경로 알고리즘](https://www.notion.so/e52818a97ba8457c85d95a9085be4eb1)
+6. [인접행렬 & 인접리스트](https://www.notion.so/d2a9aa6cba0948c5a42d6f7d9fd57b65)
