@@ -16,6 +16,7 @@
 12. [SpringBoot 개요](https://www.notion.so/StringBoot-e605520a80524c99826953f28295e8b9)
 13. [StringBoot 시작, RestAPI개발 / Enum](https://www.notion.so/91-StringBoot-RestAPI-Enum-dccd556d60834bb7a123812ea4fafeeb)
 14. [PathVariable, POST](https://www.notion.so/92-PathVariable-POST-7dcb53ab5a4446c2bc2f4d0abf90551a)
+15. [PUT(update),FormData/DELETE/Builder/SOP, CORS](https://www.notion.so/93-PUT-update-FormData-DELETE-Builder-SOP-CORS-ee89e39f5a764c94bd8f58cbae686fad)
 
 ## Data Structure & Algorithm (JAVA)
 
