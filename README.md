@@ -20,7 +20,7 @@
 4. [PUT(update),FormData/DELETE/Builder/SOP, CORS,@CrossOrigin, 프록시서버](https://www.notion.so/93-PUT-update-FormData-DELETE-Builder-SOP-CORS-ee89e39f5a764c94bd8f58cbae686fad)
 #### Spring Security
 1. [Spring Security 시작하기](https://www.notion.so/94-Spring-Security-a1750accb8cf402e9d62a1ccd81bc51f)
-2. [Spring Security - DB사용/제네릭 상한선,하한선/mybatis-collection,constructor/로그인 로그아웃-form:form/](https://www.notion.so/95-DB-mybatis-collection-constructor-form-form-44e6cb17b4fe4708941117780db592d3)
+2. [DB사용/제네릭 상한선,하한선/mybatis-collection,constructor/로그인 로그아웃-form:form/](https://www.notion.so/95-DB-mybatis-collection-constructor-form-form-44e6cb17b4fe4708941117780db592d3)
 3. [회원정보조회/회원정보수정(csrf token)](https://www.notion.so/96-csrf-token-dd2caa371f214289902b51232f44cf7d)
 
 ## Data Structure & Algorithm (JAVA)
