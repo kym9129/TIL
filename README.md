@@ -13,12 +13,15 @@
 9. [xml정리/게시판/페이징/파일첨부-selectKey](https://www.notion.so/88-xml-081c0adf7652444dac3adcb142e6d2df)
 10. [Transaction처리](https://www.notion.so/89-Transaction-c892fe266f7443d9a8a863a222626a51)
 11. [첨부파일다운:Resource객체,ResponseEntity/Spring Ajax](https://www.notion.so/90-Resource-ResponseEntity-Spring-Ajax-8b7ecc69070f43fc9137ace83f05e25b)
-12. [SpringBoot 개요](https://www.notion.so/StringBoot-e605520a80524c99826953f28295e8b9)
-13. [StringBoot 시작, RestAPI개발 / Enum](https://www.notion.so/91-StringBoot-RestAPI-Enum-dccd556d60834bb7a123812ea4fafeeb)
-14. [PathVariable, POST](https://www.notion.so/92-PathVariable-POST-7dcb53ab5a4446c2bc2f4d0abf90551a)
-15. [PUT(update),FormData/DELETE/Builder/SOP, CORS,@CrossOrigin, 프록시서버](https://www.notion.so/93-PUT-update-FormData-DELETE-Builder-SOP-CORS-ee89e39f5a764c94bd8f58cbae686fad)
-16. [Spring Security 시작하기](https://www.notion.so/94-Spring-Security-a1750accb8cf402e9d62a1ccd81bc51f)
-17. [Spring Security - DB사용/제네릭 상한선,하한선/mybatis-collection,constructor/로그인 로그아웃-form:form/](https://www.notion.so/95-DB-mybatis-collection-constructor-form-form-44e6cb17b4fe4708941117780db592d3)
+#### SpringBoot
+1. [SpringBoot 개요](https://www.notion.so/StringBoot-e605520a80524c99826953f28295e8b9)
+2. [StringBoot 시작, RestAPI개발 / Enum](https://www.notion.so/91-StringBoot-RestAPI-Enum-dccd556d60834bb7a123812ea4fafeeb)
+3. [PathVariable, POST](https://www.notion.so/92-PathVariable-POST-7dcb53ab5a4446c2bc2f4d0abf90551a)
+4. [PUT(update),FormData/DELETE/Builder/SOP, CORS,@CrossOrigin, 프록시서버](https://www.notion.so/93-PUT-update-FormData-DELETE-Builder-SOP-CORS-ee89e39f5a764c94bd8f58cbae686fad)
+#### Spring Security
+1. [Spring Security 시작하기](https://www.notion.so/94-Spring-Security-a1750accb8cf402e9d62a1ccd81bc51f)
+2. [Spring Security - DB사용/제네릭 상한선,하한선/mybatis-collection,constructor/로그인 로그아웃-form:form/](https://www.notion.so/95-DB-mybatis-collection-constructor-form-form-44e6cb17b4fe4708941117780db592d3)
+3. [회원정보조회/회원정보수정(csrf token)](https://www.notion.so/96-csrf-token-dd2caa371f214289902b51232f44cf7d)
 
 ## Data Structure & Algorithm (JAVA)
 
