@@ -38,3 +38,7 @@
 4. [다이나믹 프로그래밍 (Dynamic programming)](https://www.notion.so/6-Dynamic-programming-3f1e72087655410098818313327ea4b8)
 5. [최단경로 알고리즘](https://www.notion.so/e52818a97ba8457c85d95a9085be4eb1)
 6. [인접행렬 & 인접리스트](https://www.notion.so/d2a9aa6cba0948c5a42d6f7d9fd57b65)
+
+## Lambda
+1. [Lambda표현식](https://www.notion.so/101-Lambda-FunctionalInterface-jdk-api-3d5afaaabd9d4db68b9f652dbf190b3c)
+2. [메소드 참조, 람다식 활용](https://www.notion.so/102-b5f2132fc57a4bfe935f310d3f490713)
