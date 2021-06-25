@@ -40,7 +40,8 @@
 5. [최단경로 알고리즘](https://www.notion.so/e52818a97ba8457c85d95a9085be4eb1)
 6. [인접행렬 & 인접리스트](https://www.notion.so/d2a9aa6cba0948c5a42d6f7d9fd57b65)
 
-## Lambda & Stream
+## JDK8
 1. [Lambda표현식](https://www.notion.so/101-Lambda-FunctionalInterface-jdk-api-3d5afaaabd9d4db68b9f652dbf190b3c)
 2. [메소드 참조, 람다식 활용](https://www.notion.so/102-b5f2132fc57a4bfe935f310d3f490713)
 3. [Stream](https://www.notion.so/103-Stream-2eec7a611e6c4375b23613e579528947)
+4. [기본형 Stream(IntStream) / Optional](https://www.notion.so/104-Stream-IntStream-Optional-ac6efec8b05a469080b63d62362826fe)
